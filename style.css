@@ -43,3 +43,10 @@ img{
     background-repeat: no-repeat;
     background-position: right;
 }
+.resume_btn{
+    text-decoration: none;
+    background-image: linear-gradient(to right, #FF9C77, #FF664A);
+    color: #ffffff;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
