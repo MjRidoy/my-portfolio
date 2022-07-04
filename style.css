@@ -1,0 +1,35 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    margin:0;
+}
+h1{
+    font-size: 50px;
+}
+.width-selection{
+    width:50%;
+    margin-bottom:10%;
+    padding-left: 7%;
+}
+span{
+    color:orange;
+}
+.main_container{
+    background-image: url(bg-img/top-banner.png);
+    background-repeat: no-repeat;
+    display:flex
+}
+p{
+    color:#696981;
+    
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.btn {
+    text-decoration: none;
+    background-image: linear-gradient(to right, #FF9C77, #FF664A);
+    color: #ffffff;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
