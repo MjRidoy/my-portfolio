@@ -7,11 +7,16 @@ h1{
 }
 .width-selection{
     width:50%;
-    margin-bottom:10%;
-    padding-left: 7%;
+    padding-left: 2%;
+    margin-left: 5%;
+    float:left;
 }
-span{
+.orange_clr{
     color:orange;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
 }
 .sectionA{
     background-image: url(bg-img/top-banner.png);
@@ -23,9 +28,7 @@ span{
 }
 p{
     color:#696981;
-    width:80%;
-   
-    
+    width: 100%;
 }
 img{
     max-width: 100%;
@@ -49,4 +52,29 @@ img{
     color: #ffffff;
     padding: 10px 40px;
     border-radius: 5px;
+}
+.box_shaddow {
+    box-shadow: 4px -2px 11px darkgrey;
+    margin-left: 5%;
+    height: 350px;
+}
+h2{
+    font-size: 45px;
+}
+.border_a{
+    border-left: 7px solid #FF6347;
+}
+.border_b{
+    
+    border-left: 7px solid #0000FF;
+}
+.sectionC{
+    background-image: url(bg-img/exp-bg.png);
+    background-repeat: no-repeat;
+
+}
+.footer{
+    text-align: center;
+    color:dimgrey;
+    
 }
