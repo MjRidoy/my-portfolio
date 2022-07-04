@@ -13,13 +13,18 @@ h1{
 span{
     color:orange;
 }
-.main_container{
+.sectionA{
     background-image: url(bg-img/top-banner.png);
     background-repeat: no-repeat;
-    display:flex
+    
+}
+.main_container{
+    display: flex;
 }
 p{
     color:#696981;
+    width:80%;
+   
     
 }
 img{
@@ -32,4 +37,9 @@ img{
     color: #ffffff;
     padding: 10px 30px;
     border-radius: 5px;
+}
+.sectionB{
+    background-image: url(bg-img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
